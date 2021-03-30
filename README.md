@@ -1,6 +1,6 @@
 # About me
 
-I am René GHosh, a developper specialized in front-web application development and devops. 
+I am René Ghosh, a developper specialized in front-web application development and devops. 
 
 I am currently working on [cards](https://github.com/satelliteray/cards/) (name susceptible to change), a framework for building card-based web user interfaces, quickly, reliably, and simply.
 
