@@ -6,4 +6,4 @@ I am currently working on [cards](https://github.com/satelliteray/cards/) (name 
 
 I am interested in PWA applications and a staunch believer in standards.
 
-My homepage is at https://satelliteray.github.io
+My homepage is at https://www/reneghosh.com
